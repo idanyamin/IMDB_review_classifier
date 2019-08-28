@@ -1,0 +1,3 @@
+In oreder to run random_forest_solution.py you must download the pickle file or the rar file (and extract the pickle file).
+
+https://drive.google.com/drive/folders/1iAnEeshPuNWsE9Fr9lvX4-tz-GXy1art?usp=sharing
